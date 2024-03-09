@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">I'm Vijayakumaran, a dedicated coder and adept problem solver deeply immersed in the realm of technology. I approach challenges with enthusiasm, backed by a courage and ability to tackle anything that comes my way. Renowned for my strong work ethic, I consistently complete tasks within specified timelines.<br><br>My leadership qualities shine through my role as an officer bearer in various clubs, where I've successfully organized and led teams. Whether it's spearheading projects or working collaboratively, I excel in both team dynamics and leadership responsibilities.<br><br>In terms of technical expertise, I possess a robust knowledge base in Artificial Intelligence, Machine Learning, and data-related domains. Additionally, my understanding of DevOps adds a valuable layer to my skill set.<br><br>My specific interests lie in Machine Learning, Automation, and Cloud technologies, where I aspire to make meaningful contributions. Eager to connect with like-minded professionals and explore potential collaborations. Let's engage in conversations that transcend boundaries and unlock new possibilities!</h2>
+<h2 align="left">I'm Vijayakumaran, a dedicated coder and adept problem solver deeply immersed in the realm of technology. I approach challenges with enthusiasm, backed by a courage and ability to tackle anything that comes my way. Renowned for my strong work ethic, I consistently complete tasks within specified timelines. 💻💡<br><br>My leadership qualities shine through my role as an officer bearer in various clubs, where I've successfully organized and led teams. Whether it's spearheading projects or working collaboratively, I excel in both team dynamics and leadership responsibilities. 🏆👨‍💼<br><br>In terms of technical expertise, I possess a robust knowledge base in Artificial Intelligence, Machine Learning, and data-related domains. Additionally, my understanding of DevOps adds a valuable layer to my skill set. 🧠📊<br><br>My specific interests lie in Machine Learning, Automation, and Cloud technologies, where I aspire to make meaningful contributions. Eager to connect with like-minded professionals and explore potential collaborations. Let's engage in conversations that transcend boundaries and unlock new possibilities! 🌐🚀</h2>
 
 ###
 
@@ -17,6 +17,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="30" alt="circleci logo"  />
@@ -29,7 +31,21 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="30" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="30" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
 </div>
 
 ###
