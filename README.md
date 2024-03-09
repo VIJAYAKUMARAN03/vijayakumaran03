@@ -53,7 +53,9 @@
 
 ### 
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/vijayakumaran27?theme=unicorn&extension=activity)]
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/vasantharan?ext=heatmap">
+</p>
 
 ## 
 
