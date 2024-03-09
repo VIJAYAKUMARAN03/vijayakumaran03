@@ -63,7 +63,7 @@
 
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/vijayakumaran27?ext=heatmap&width=300px">
+  <img src="https://leetcard.jacoblin.cool/vijayakumaran27?ext=heatmap&width=80%">
 </p>
 
 ## 
