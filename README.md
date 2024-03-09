@@ -55,9 +55,7 @@
 
 ### Leetcode
 
-<div align="center">
 [![LeetCode Stats](https://leetcard.jacoblin.cool/vijayakumaran27?theme=unicorn&extension=activity)]
-</div>
 ## Features
 
 <div align="center">
