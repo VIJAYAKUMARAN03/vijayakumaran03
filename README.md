@@ -53,10 +53,11 @@
   <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
 </div>
 
-###
+### Leetcode
 
+<div align="center">
 [![LeetCode Stats](https://leetcard.jacoblin.cool/vijayakumaran27?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&extension=activity)
-
+</div>
 ## Features
 
 <div align="center">
