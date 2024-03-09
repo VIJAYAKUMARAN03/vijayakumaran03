@@ -1,7 +1,5 @@
-<div align="center">
-  <img align="left" height="80" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif"  />
+<div align="center" style="background-image: url('https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif');">
   <h1 align="center">Greetings👋!..</h1>
-  <img align="right" height="80" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif"  />
 </div>
 <br clear="both">
 
