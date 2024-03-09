@@ -1,4 +1,4 @@
-<div align="center" style="background-image: url('https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif');">
+<div align="center" style="background-video: url('https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif');">
   <h1 align="center">Greetings👋!..</h1>
 </div>
 <br clear="both">
@@ -51,10 +51,11 @@
   <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
 </div>
 
-### Leetcode
+### 
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/vijayakumaran27?theme=unicorn&extension=activity)]
-## Features
+
+## 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VIJAYAKUMARAN03&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
